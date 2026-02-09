@@ -1,11 +1,11 @@
 # Foodies: A full-stack food delivery app
 
-## Techstack: React.js, node.js, express, mongodb (MERN), stripe payment gateway
+## Techstack: React.js, node.js, express, mongodb (MERN), stripe
 
 ## Features
 - Dedicated admin panel to add new dishes to menu, view the menu, and handle food orders
 - web app features register/ login functionality, filters for different categories of dishes, stripe payment gateway to simulate online payments
-- 
+ 
 ### Deployed via Render
 Frontend: https://foodies-frontend-gqwq.onrender.com/
 
