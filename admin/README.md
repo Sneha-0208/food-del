@@ -1,16 +1,12 @@
-# React + Vite
+# Foodies: A full-stack food delivery app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Deployed via Render
+Frontend: https://foodies-frontend-gqwq.onrender.com/
+Backend: https://foodies-backend-edp7.onrender.com/
+Admin: https://foodies-admin-xfro.onrender.com/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### To correct/ implement next?
+- Resolve image 404 error (frontend/public/ or absolute paths)
+- Admin page says "Not found" upon refresh
+- Make frontend navbar logo responsive
+- Integrate functionalities of search, admin login, sorting orders by latest time, COD/ Stripe payment options, put social links in footer, change pricing to INR, enable details edit option in admin panel.
